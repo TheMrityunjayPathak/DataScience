@@ -1,6 +1,3 @@
-# DataScience
-![data-science](https://user-images.githubusercontent.com/123563634/229184510-f89ce709-1c9a-47ef-8b17-c878c0b7c05a.jpg)
-
 👉 **What is Data Science?**
 
 Data science is the domain of study that deals with vast volumes of data using modern tools and techniques to find unseen patterns, derive meaningful information, and make business decisions. Data science uses complex machine learning algorithms to build predictive models.
