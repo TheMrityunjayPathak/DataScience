@@ -2,7 +2,7 @@
 
 Data science is the domain of study that deals with vast volumes of data using modern tools and techniques to find unseen patterns, derive meaningful information, and make business decisions. Data science uses complex machine learning algorithms to build predictive models.
 
-📊 **The Data Science Lifecycle** 📈 
+📉 **The Data Science Lifecycle** 📈 
 
 Now that you know what is data science, next up let us focus on the data science lifecycle. Data science’s lifecycle consists of five distinct stages, each with its own tasks:
 
