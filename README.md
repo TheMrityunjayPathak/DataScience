@@ -37,3 +37,13 @@ Here are some of the technical concepts you should know about before starting to
 5️⃣ **Databases :**
 
 - A capable data scientist needs to understand how databases work, how to manage them, and how to extract data from them.
+
+👉 **Topics Covered in Repository**
+
+- [Numpy](https://www.kaggle.com/code/themrityunjaypathak/numpy-tutorial)📐
+
+- [Pandas](https://www.kaggle.com/code/themrityunjaypathak/pandas-tutorial)🐼
+
+- [Matplotlib](https://www.kaggle.com/code/themrityunjaypathak/matplotlib-tutorial)📊
+
+- [Python](https://www.kaggle.com/code/themrityunjaypathak/python-tutorial)🐍
