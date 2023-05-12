@@ -4,7 +4,7 @@
 
 - Data science uses complex machine learning algorithms to build predictive models.
 
-🎯 **Important libraries related to Data Science*
+🎯 **Important libraries related to Data Science**
 
 [Python](https://www.kaggle.com/code/themrityunjaypathak/python-tutorial)🐍
 
