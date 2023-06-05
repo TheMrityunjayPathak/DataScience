@@ -64,7 +64,7 @@ It is essential because before you can read the data, you must ensure it is in a
 
 In this step, you uncover your findings and present them to the organization. The most critical skill in this would be your ability to explain your results.
 
-🎯 **Important tools for Data Science**
+🎯 **Important Tools for Data Science**
 
 🔹[Python 🐍](https://www.kaggle.com/code/themrityunjaypathak/python-tutorial)
 
