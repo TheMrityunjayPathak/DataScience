@@ -1,4 +1,4 @@
-# Data Science Repository
+# Data Science
 
 - This repository contains Jupyter Notebook files for various data science topics using Python, NumPy, Pandas, and Matplotlib. 
 
