@@ -6,7 +6,7 @@
 
 ## Notebooks
 
-- `Python.ipynb` : This notebook covers the basics of Python Programming, including data types, variables, control flow, functions, and more.
+- `Python.ipynb` : This notebook covers the basics of Python, like data types, variables, control flow, functions, and more.
 
 - `NumPy.ipynb` : This notebook introduces NumPy, a fundamental library for numerical computing in Python.
 
