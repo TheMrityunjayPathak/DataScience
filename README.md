@@ -1,6 +1,6 @@
 ## Data Science
 
-- This repository contains Jupyter Notebook files for various data science topics such as Python, NumPy, Pandas, and Matplotlib. 
+- This repository contains Jupyter Notebooks for various data science topics such as Python, NumPy, Pandas, and Matplotlib. 
 
 - These notebooks serve as a resource for learning and practicing data manipulation, analysis, and visualization.
 
@@ -10,24 +10,20 @@
 
 - `NumPy.ipynb` : This notebook introduces NumPy, a fundamental library for numerical computing in Python.
 
-    - It covers topics such as creating arrays, performing array operations, indexing, slicing, and basic linear algebra operations.
-
 - `Pandas.ipynb` : In this notebook, you will learn about Pandas, a powerful data manipulation library.
 
-    - It covers topics such as working with Series and DataFrames, data cleaning, filtering, grouping, merging, and basic data exploration.
-
 - `MatPlotLib.ipynb` : This notebook explores the Matplotlib library for data visualization in Python.
-
-    - It covers plotting various types of charts, customizing plots, adding labels and annotations, and creating visualizations for data analysis.
 
 ## Getting Started
 
 1. Clone the repository to your local machine using the following command :
+   
 ```
 git clone https://github.com/TheMrityunjayPathak/DataScience.git
 ```
 
 2. Launch Jupyter Notebook and open the desired notebook file :
+
 ```
 jupyter notebook
 ```
