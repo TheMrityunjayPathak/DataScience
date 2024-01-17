@@ -1,6 +1,6 @@
 ## Data Science
 
-- This repository contains Jupyter Notebooks for various data science topics such as Python, NumPy, Pandas, and Matplotlib. 
+- This repository contains Jupyter Notebooks for important data science libraries. 
 
 - These notebooks serve as a resource for learning and practicing data manipulation, analysis, and visualization.
 
